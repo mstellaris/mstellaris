@@ -14,7 +14,7 @@
 I’m a reformed ex-SRE engineer who turned his obsession about better customer experiences into a career and turned into a product manager years ago. I love building products from 0 -> 1 and toying around with new technologies!  
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 <!---
 mstellaris/mstellaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

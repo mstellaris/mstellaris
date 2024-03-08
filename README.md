@@ -1,7 +1,7 @@
-💻 Curious about code for 20+ years
-🎯 Product Manager for 10+ years
-👨‍💻 SRE/fixer for 8+ years
-🧙‍♂️ Agilist for 7+ years
++ 💻 Curious about code for 20+ years
++ 🎯 Product Manager for 10+ years
++ 👨‍💻 SRE/fixer for 8+ years
++ 🧙‍♂️ Agilist for 7+ years
 
 Miltos has been a professional solution finder for more than 15 years, and worked at 3 Fortune 500 companies, a few start-ups and other respectable companies. 
 
